@@ -271,3 +271,9 @@ span.elision{
 	margin-left: 3em;
 }
 /* end of poem/verse/song */
+
+/* location specific */
+#the-doom-of-the-darnaways blockquote {
+	font-style: italic;
+}
+/* end of location specific */
