@@ -48,6 +48,10 @@ section[epub|type~="dedication"] > *{
 /* end of poem/verse/song */
 
 /* location specific */
+#preface {
+	margin-top: 20vh;
+}
+
 #the-doom-of-the-darnaways blockquote {
 	font-style: italic;
 }
