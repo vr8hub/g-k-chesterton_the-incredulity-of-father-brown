@@ -117,14 +117,14 @@
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="note.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="the-resurrection-of-father-brown.xhtml"/>
 		<itemref idref="the-arrow-of-heaven.xhtml"/>
+		<itemref idref="the-oracle-of-the-dog.xhtml"/>
+		<itemref idref="the-miracle-of-moon-crescent.xhtml"/>
 		<itemref idref="the-curse-of-the-golden-cross.xhtml"/>
 		<itemref idref="the-dagger-with-wings.xhtml"/>
 		<itemref idref="the-doom-of-the-darnaways.xhtml"/>
 		<itemref idref="the-ghost-of-gideon-wise.xhtml"/>
-		<itemref idref="the-miracle-of-moon-crescent.xhtml"/>
-		<itemref idref="the-oracle-of-the-dog.xhtml"/>
-		<itemref idref="the-resurrection-of-father-brown.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
