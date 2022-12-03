@@ -52,12 +52,14 @@
 		<meta property="group-position" refines="#collection-1">3</meta>
 		<dc:description id="description">The third set of stories of a Catholic priest who is also an amateur detective.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/collections/father-brown"&gt;Father Brown&lt;/a&gt;, full-time Catholic priest and part-time amateur detective, returns in this third collection of short stories.&lt;/p&gt;
+			&lt;p&gt;Unlike the first two collections, this time Father Brown is investigating alone; his sidekick, the former criminal Flambeau, is nowhere to be seen. Father Brown has to solve a murder (including his own!) in each story, and since several also appear to involve the supernatural, he has ample opportunity to elaborate on his thoughts concerning it. As with the first two collections, &lt;a href="https://standardebooks.org/ebooks/g-k-chesterton"&gt;Chesterton&lt;/a&gt; is often as concerned with the moral of the story as the mystery itself.&lt;/p&gt;
+			&lt;p&gt;Most of the stories were previously published in &lt;i&gt;The Pall Mall Magazine&lt;/i&gt;, one appeared in &lt;i&gt;Cassell’s Magazine&lt;/i&gt;, and one was written specifically for this collection.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20120749</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.463891</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The transcription from Faded Page is from a non-PD omnibus of several of the Father Brown collections, so careful proofing against the PD scans was done to ensure the text matched the scans.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Incredulity_of_Father_Brown</meta>
